@@ -28,4 +28,4 @@ auto_file_organizer.py
 - Add file preview
 
 ## 👤 Author
-Sakib Sahriar
+Sakiburs

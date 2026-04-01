@@ -20,7 +20,27 @@ Auto File Organizer is a simple and smart Python desktop application that automa
 auto_file_organizer.py
 
 ## 📷 Screenshot
-(Coming soon)
+
+### 🖥️ Main Interface
+(main_interface.png)
+
+### 📂 Folder Selection
+(Folder Select.png)
+
+### ⚙️ Settings Panel
+(settings.png)
+
+### 📜 History Log
+(History Log.png)
+
+### 📊 Before Organizing
+(before organize.png)
+
+### ✅ After Organizing
+(after organize.png)
+
+### ✔️ Confirmation Message
+(Organize confirmation.png)
 
 ## 💡 Future Improvements
 - Add modern UI design

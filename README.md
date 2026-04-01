@@ -16,4 +16,16 @@ Auto File Organizer is a simple and smart Python desktop application that automa
 
 ## ▶️ How to Run
 1. Download or clone this repository
-2. Run the app
+2. Run the app:
+auto_file_organizer.py
+
+## 📷 Screenshot
+(Coming soon)
+
+## 💡 Future Improvements
+- Add modern UI design
+- Add settings panel
+- Add file preview
+
+## 👤 Author
+Sakib Sahriar
